@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "そして僕にできるコト",
+  "base_artist": "day after tomorrow",
+  "createdAt": "2026-02-13T20:24:00.469998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そして僕にできるコト",
+      "artist": "day after tomorrow",
+      "has_synced": false,
+      "path": "select/01_そして僕にできるコト_day_after_tomorrow.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "そして僕にできるコト",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/02_そして僕にできるコト_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "そして僕にできるコト ver.2013",
+      "artist": "misono",
+      "has_synced": true,
+      "path": "select/03_そして僕にできるコト_ver.2013_misono.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "そして僕にできるコト (Tales of Symphonia PS2)",
+      "artist": "day after tomorrow",
+      "has_synced": true,
+      "path": "select/04_そして僕にできるコト_(Tales_of_Symphonia_PS2)_day_after_tomorrow.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そして僕にできるコト",
+      "artist": "day after tomorrow",
+      "has_synced": false,
+      "path": "select/pl_01_そして僕にできるコト_day_after_tomorrow.txt"
+    }
+  ]
+}
